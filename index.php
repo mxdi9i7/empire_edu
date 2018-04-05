@@ -1,5 +1,6 @@
 
 <?php include './partials/header.php' ?>
+<input id="active" value="index" hidden>
       <!-- Carousel Slider -->
       <div class="js-carousel u-carousel-v5"
            data-infinite="true"
@@ -85,7 +86,7 @@
 
 
       <!-- Learn First Steps -->
-      <div class="container g-pt-100 g-pb-50">
+      <div class="container g-pt-100 g-pb-50" id="advantages">
         <!-- Heading -->
         <div class="g-max-width-645 text-center mx-auto">
           <h2 class="h1 mb-3">项目优势</h2>
@@ -395,405 +396,44 @@
         </div>
       </div>
       <!-- End Research Statistics -->
-
-      <!-- Testimonials -->
-      <div class="g-bg-main-light-v2">
-        <div class="container g-pt-70 g-pb-20">
-          <div class="js-carousel" data-pagi-classes="u-carousel-indicators-v35--white g-pos-rel text-center">
-            <!-- Testimonials -->
-            <div class="js-slide">
-              <div class="row justify-content-lg-center g-mb-20">
-                <div class="col-md-3 col-lg-2 g-mb-20">
-                  <img class="img-fluid u-shadow-v36 rounded-circle mx-auto" src="assets/img-temp/200x200/img3.jpg" alt="Image Description">
-                </div>
-
-                <div class="col-md-9 col-lg-8 g-mb-20">
-                  <!-- Testimonials - Content -->
-                  <div class="media mb-3">
-                    <div class="d-flex mr-3">
-                      <span class="g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-pos-rel g-top-minus-10">&#8220;</span>
-                    </div>
-                    <div class="media-body">
-                      <blockquote class="g-brd-left-none g-color-white g-font-style-italic g-font-size-20 g-pl-0">The program offers both a strong theoretical and practical component providing the solid foundation needed for student teachers to venture out into the realm of teaching.
-                        <span class="align-self-end g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-line-height-0 align-bottom g-pos-rel g-top-minus-10">&#8221;</span>
-                      </blockquote>
-                    </div>
-                  </div>
-
-                  <div class="g-pl-30">
-                    <h3 class="h4 g-color-white-opacity-0_9 mb-0">Karolina Wellyan</h3>
-                    <span class="d-block g-font-size-18 g-color-white-opacity-0_5 g-pl-20">&#8212; Bachelor Student</span>
-                  </div>
-                  <!-- End Testimonials - Content -->
-                </div>
-              </div>
-            </div>
-            <!-- End Testimonials -->
-
-            <!-- Testimonials -->
-            <div class="js-slide">
-              <div class="row justify-content-lg-center g-mb-20">
-                <div class="col-md-3 col-lg-2 g-mb-20">
-                  <img class="img-fluid u-shadow-v36 rounded-circle mx-auto" src="assets/img-temp/200x200/img1.jpg" alt="Image Description">
-                </div>
-
-                <div class="col-md-9 col-lg-8 g-mb-20">
-                  <!-- Testimonials - Content -->
-                  <div class="media mb-3">
-                    <div class="d-flex mr-3">
-                      <span class="g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-pos-rel g-top-minus-10">&#8220;</span>
-                    </div>
-                    <div class="media-body">
-                      <blockquote class="g-brd-left-none g-color-white g-font-style-italic g-font-size-20 g-pl-0">Unify's TESL program was a personally enriching and professionally beneficial experience that opened the door to a rewarding second career in ESL.
-                        <span class="align-self-end g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-line-height-0 align-bottom g-pos-rel g-top-minus-10">&#8221;</span>
-                      </blockquote>
-                    </div>
-                  </div>
-
-                  <div class="g-pl-30">
-                    <h3 class="h4 g-color-white-opacity-0_9 mb-0">Alex Watson</h3>
-                    <span class="d-block g-font-size-18 g-color-white-opacity-0_5 g-pl-20">&#8212; 2015 Grad</span>
-                  </div>
-                  <!-- End Testimonials - Content -->
-                </div>
-              </div>
-            </div>
-            <!-- End Testimonials -->
-
-            <!-- Testimonials -->
-            <div class="js-slide">
-              <div class="row justify-content-lg-center g-mb-20">
-                <div class="col-md-3 col-lg-2 g-mb-20">
-                  <img class="img-fluid u-shadow-v36 rounded-circle mx-auto" src="assets/img-temp/200x200/img2.jpg" alt="Image Description">
-                </div>
-
-                <div class="col-md-9 col-lg-8 g-mb-20">
-                  <!-- Testimonials - Content -->
-                  <div class="media mb-3">
-                    <div class="d-flex mr-3">
-                      <span class="g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-pos-rel g-top-minus-10">&#8220;</span>
-                    </div>
-                    <div class="media-body">
-                      <blockquote class="g-brd-left-none g-color-white g-font-style-italic g-font-size-20 g-pl-0">I would highly recommend the Unify TESL program – it gave me the training, tools and network to get ESL teaching opportunities in Toronto. Unify's program provided a good balance of both the practical and theoretical knowledge.
-                        <span class="align-self-end g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-line-height-0 align-bottom g-pos-rel g-top-minus-10">&#8221;</span>
-                      </blockquote>
-                    </div>
-                  </div>
-
-                  <div class="g-pl-30">
-                    <h3 class="h4 g-color-white-opacity-0_9 mb-0">Maria Olsson</h3>
-                    <span class="d-block g-font-size-18 g-color-white-opacity-0_5 g-pl-20">&#8212; 2017 Grad</span>
-                  </div>
-                  <!-- End Testimonials - Content -->
-                </div>
-              </div>
-            </div>
-            <!-- End Testimonials -->
-
-            <!-- Testimonials -->
-            <div class="js-slide">
-              <div class="row justify-content-lg-center g-mb-20">
-                <div class="col-md-3 col-lg-2 g-mb-20">
-                  <img class="img-fluid u-shadow-v36 rounded-circle mx-auto" src="assets/img-temp/200x200/img4.jpg" alt="Image Description">
-                </div>
-
-                <div class="col-md-9 col-lg-8 g-mb-20">
-                  <!-- Testimonials - Content -->
-                  <div class="media mb-3">
-                    <div class="d-flex mr-3">
-                      <span class="g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-pos-rel g-top-minus-10">&#8220;</span>
-                    </div>
-                    <div class="media-body">
-                      <blockquote class="g-brd-left-none g-color-white g-font-style-italic g-font-size-20 g-pl-0">The TESL training at Unify includes an extremely useful practicum portion where students get the chance to hone their skills at the front of the class and receive feedback from mentors.
-                        <span class="align-self-end g-color-white-opacity-0_8  g-font-size-40 g-opacity-0_3 g-line-height-0 align-bottom g-pos-rel g-top-minus-10">&#8221;</span>
-                      </blockquote>
-                    </div>
-                  </div>
-
-                  <div class="g-pl-30">
-                    <h3 class="h4 g-color-white-opacity-0_9 mb-0">Brown Draxler</h3>
-                    <span class="d-block g-font-size-18 g-color-white-opacity-0_5 g-pl-20">&#8212; Jeff Brown, M.A., Ph.D.</span>
-                  </div>
-                  <!-- End Testimonials - Content -->
-                </div>
-              </div>
-            </div>
-            <!-- End Testimonials -->
-          </div>
-        </div>
-      </div>
-      <!-- End Testimonials -->
-
-      <!-- Events -->
-      <div class="g-bg-secondary">
+      
+      <!-- Response to Recent Postering Incidents -->
         <div class="container g-py-100">
-          <!-- Heading -->
-          <div class="g-max-width-645 text-center g-mb-60 mx-auto">
-            <h2 class="h1 mb-3">More Ways to Know the World with Unify Events</h2>
-            <p>Grow your business, go global, and boost conversions in other countries by localizing your education experience.</p>
-          </div>
-          <!-- End Heading -->
+          <div class="row justify-content-lg-between align-items-center">
+            <div class="col-md-6">
+              <img class="img-fluid" src="assets/img-temp/900x700/img1.jpg" alt="Image Description">
+            </div>
 
-          <!-- More Events List -->
-          <ul class="list-unstyled g-mb-60">
-            <!-- Events Item -->
-            <li class="u-block-hover u-shadow-v37--hover g-bg-secondary-dark-v1 g-bg-white--hover rounded g-px-50 g-py-30 mb-4">
-              <div class="row align-items-lg-center">
-                <div class="col-md-3 col-lg-2 g-mb-30 g-mb-0--lg">
-                  <div class="d-flex align-items-center mb-3">
-                    <span class="g-color-primary g-font-weight-500 g-font-size-50 g-line-height-1 mr-3">12</span>
-                    <div class="g-color-text-light-v1 text-center g-line-height-1_4">
-                      <span class="d-block">Nov.</span>
-                      <span class="d-block">2017</span>
-                    </div>
-                  </div>
-                  <span class="d-block g-color-text-light-v1">6.00pm - 7.15pm</span>
-                </div>
-                <div class="col-md-9 col-lg-8 g-mb-30 g-mb-0--lg">
-                  <h3 class="h5 g-font-primary g-font-weight-500 mb-1">Health Sciences New Faculty Breakfast &amp; Resource Showcase</h3>
-                  <p>Professor Allan Pack, University of Pennsylvania</p>
-                  <a class="d-inline-block u-link-v5 g-color-text-light-v1 g-color-primary--hover" href="#">
-                    <i class="align-middle g-color-primary mr-2 icon-real-estate-027 u-line-icon-pro"></i>
-                    Unify Perkins Lecture Hall
-                  </a>
-                </div>
-                <div class="col-lg-2">
-                  <a class="btn btn-block g-brd-2 g-brd-main-opacity-0_1 g-brd-primary--hover g-color-primary g-color-white--hover g-bg-primary--hover g-rounded-30 g-py-10" href="#">Register now</a>
-                </div>
+            <div class="col-md-5 g-mb-50 g-mb-0--md">
+              <div class="mb-5">
+                <h2 class="mb-3">名校保进计划</h2>
+                <p>Nov. 16, 2017 — Members of the university community may be aware of a number of instances in which posters designed to offend, draw response and divide us have appeared sporadically across our campus in recent weeks. For context, see messages from the President, myself, and the university.</p>
               </div>
-              <a class="u-link-v2" href="#"></a>
-            </li>
-            <!-- End Events Item -->
-
-            <!-- Events Item -->
-            <li class="u-block-hover u-shadow-v37--hover g-bg-secondary-dark-v2 g-bg-white--hover rounded g-px-50 g-pa-30 mb-4">
-              <div class="row align-items-lg-center">
-                <div class="col-md-3 col-lg-2 g-mb-30 g-mb-0--lg">
-                  <div class="d-flex align-items-center mb-3">
-                    <span class="g-color-primary g-font-weight-500 g-font-size-50 g-line-height-1 mr-3">05</span>
-                    <div class="g-color-text-light-v1 text-center g-line-height-1_4">
-                      <span class="d-block">Dec.</span>
-                      <span class="d-block">2017</span>
-                    </div>
-                  </div>
-                  <span class="d-block g-color-text-light-v1">6.00pm - 7.15pm</span>
-                </div>
-                <div class="col-md-9 col-lg-8 g-mb-30 g-mb-0--lg">
-                  <h3 class="h5 g-font-primary g-font-weight-500 mb-1">Build Your Weekly Schedule Drop-in Event</h3>
-                  <p>Toward a just and sustainable food system</p>
-                  <a class="d-inline-block u-link-v5 g-color-text-light-v1 g-color-primary--hover" href="#">
-                    <i class="align-middle g-color-primary mr-2 icon-real-estate-027 u-line-icon-pro"></i>
-                    Unify Business School
-                  </a>
-                </div>
-                <div class="col-lg-2">
-                  <a class="btn btn-block g-brd-2 g-brd-main-opacity-0_1 g-brd-primary--hover g-color-primary g-color-white--hover g-bg-primary--hover g-rounded-30 g-py-10" href="#">Register now</a>
-                </div>
-              </div>
-              <a class="u-link-v2" href="#"></a>
-            </li>
-            <!-- End Events Item -->
-
-            <!-- Events Item -->
-            <li class="u-block-hover u-shadow-v37--hover g-bg-secondary-dark-v1 g-bg-white--hover rounded g-px-50 g-pa-30 mb-4">
-              <div class="row align-items-lg-center">
-                <div class="col-md-3 col-lg-2 g-mb-30 g-mb-0--lg">
-                  <div class="d-flex align-items-center mb-3">
-                    <span class="g-color-primary g-font-weight-500 g-font-size-50 g-line-height-1 mr-3">23</span>
-                    <div class="g-color-text-light-v1 text-center g-line-height-1_4">
-                      <span class="d-block">Dec.</span>
-                      <span class="d-block">2017</span>
-                    </div>
-                  </div>
-                  <span class="d-block g-color-text-light-v1">6.00pm - 7.15pm</span>
-                </div>
-                <div class="col-md-9 col-lg-8 g-mb-30 g-mb-0--lg">
-                  <h3 class="h5 g-font-primary g-font-weight-500 mb-1">Soulful Singing</h3>
-                  <p>Professor Allan Pack, University of Pennsylvania</p>
-                  <a class="d-inline-block u-link-v5 g-color-text-light-v1 g-color-primary--hover" href="#">
-                    <i class="align-middle g-color-primary mr-2 icon-real-estate-027 u-line-icon-pro"></i>
-                    Unify Perkins Lecture Hall
-                  </a>
-                </div>
-                <div class="col-lg-2">
-                  <a class="btn btn-block g-brd-2 g-brd-main-opacity-0_1 g-brd-primary--hover g-color-primary g-color-white--hover g-bg-primary--hover g-rounded-30 g-py-10" href="#">Register now</a>
-                </div>
-              </div>
-              <a class="u-link-v2" href="#"></a>
-            </li>
-            <!-- End Events Item -->
-          </ul>
-          <!-- End More Events List -->
-
-          <div class="text-center">
-            <a class="btn u-shadow-v33 g-color-white g-color-white--hover g-bg-primary g-bg-main--hover g-rounded-30 g-px-25 g-py-10" href="page-events-1.html">View all Events</a>
+              <a class="btn u-shadow-v39 g-brd-main g-brd-primary--hover g-color-main g-color-white--hover g-bg-primary--hover g-font-size-default g-rounded-30 g-px-35 g-py-11" href="#">Learn More</a>
+            </div>
           </div>
         </div>
-      </div>
-      <!-- End Events -->
+        <!-- End Response to Recent Postering Incidents -->
 
-      <!-- News -->
-      <div class="container g-pt-100">
-        <div class="g-px-30--lg">
-          <!-- Heading -->
-          <div class="g-max-width-645 text-center mx-auto g-mb-30">
-            <h2 class="h1 mb-3">Latest News &amp; Opinions</h2>
-            <p>Our duty towards you is to share our experience we're reaching in our work path with you.</p>
+        <!-- Unify Competency Model -->
+        <div class="container g-pb-100">
+          <div class="row justify-content-lg-between align-items-center">
+            <div class="col-md-6 order-md-2">
+              <img class="img-fluid" src="assets/img-temp/900x700/img3.jpg" alt="Image Description">
+            </div>
+
+            <div class="col-md-5 order-md-1 g-mb-50 g-mb-0--md">
+              <div class="mb-5">
+                <h2 class="mb-3">精英一百计划</h2>
+                <p>Unify's revised competency model is now ready. Review the model and associated resources that help describe what it means for employees to contribute to Unify’s success.</p>
+              </div>
+              <a class="btn u-shadow-v39 g-brd-main g-brd-primary--hover g-color-main g-color-white--hover g-bg-primary--hover g-font-size-default g-rounded-30 g-px-35 g-py-11" href="#">Learn More</a>
+            </div>
           </div>
-          <!-- End Heading -->
-
-          <!-- News Carousel -->
-          <div class="js-carousel u-carousel-v5 g-mx-minus-15"
-               data-slides-show="3"
-               data-slides-scroll="1"
-               data-arrows-classes="u-icon-v3 u-icon-size--sm g-absolute-centered--y g-color-primary g-color-white--hover g-bg-primary-opacity-0_1 g-bg-primary--hover rounded-circle g-pa-11"
-               data-arrow-left-classes="fa fa-angle-left g-left-0 g-ml-minus-50--lg"
-               data-arrow-right-classes="fa fa-angle-right g-right-0 g-mr-minus-50--lg"
-               data-pagi-classes="u-carousel-indicators-v35 g-pos-rel text-center g-mt-30"
-               data-responsive='[{
-                 "breakpoint": 992,
-                 "settings": {
-                   "slidesToShow": 2
-                 }
-               }, {
-                 "breakpoint": 768,
-                 "settings": {
-                   "slidesToShow": 1
-                 }
-               }, {
-                 "breakpoint": 554,
-                 "settings": {
-                   "slidesToShow": 1
-                 }
-               }]'>
-
-            <!-- News -->
-            <div class="js-slide u-shadow-v38 g-bg-size-cover g-bg-pos-center rounded g-mx-15 g-my-30" style="background-image: url(assets/img-temp/400x500/img1.jpg);">
-              <article class="align-self-end text-center g-pos-rel g-z-index-1 g-pa-40 mx-auto">
-                <h3 class="g-color-white">Unify University announces a new student award in honour of Fashion</h3>
-                <div class="mt-4">
-                  <span class="d-block g-color-white g-font-size-16 mb-2">Neyton Burchie</span>
-                  <div class="d-inline-block g-width-40 g-height-40">
-                    <img class="img-fluid g-brd-around g-brd-2 g-brd-primary-opacity-0_1 rounded-circle" src="assets/img-temp/100x100/img3.jpg" alt="Image Description">
-                  </div>
-                </div>
-                <a class="u-link-v2" href="page-blog-single-item-1.html"></a>
-              </article>
-            </div>
-            <!-- End News -->
-
-            <!-- News -->
-            <div class="js-slide g-flex-centered u-shadow-v38 rounded g-mx-15 g-my-30">
-              <article class="g-pa-40">
-                <blockquote class="g-brd-left-none g-color-main-dark-v3 g-font-size-18 g-pl-0 mb-5">" Unify welcomes the downtown to uptown in advance of the IT Technology. At the welcome ceremony, Lenton announced a new award in the IT Technology in support of increased access to postsecondary education. "</blockquote>
-                <div class="text-center mb-3">
-                  <span class="d-block g-color-text-light-v1 g-font-size-16 mb-2">Keith Margaret</span>
-                  <div class="d-inline-block g-width-40 g-height-40">
-                    <img class="img-fluid g-brd-around g-brd-2 g-brd-primary-opacity-0_1 rounded-circle" src="assets/img-temp/100x100/img2.jpg" alt="Image Description">
-                  </div>
-                </div>
-                <a class="btn btn-block g-color-primary g-color-white--hover g-bg-primary-opacity-0_1 g-bg-primary--hover g-rounded-20 g-py-10" href="page-blog-single-item-1.html">Read more</a>
-              </article>
-            </div>
-            <!-- End News -->
-
-            <!-- News -->
-            <div class="js-slide u-shadow-v38 g-bg-size-cover g-bg-pos-center rounded g-mx-15 g-my-30" style="background-image: url(assets/img-temp/400x500/img3.jpg);">
-              <article class="align-self-end text-center g-pos-rel g-z-index-1 g-pa-40 mx-auto">
-                <h3 class="g-color-white">The Fashion Gallery of Unify welcomes downtown to the future of Ontario.</h3>
-                <div class="mt-4">
-                  <span class="d-block g-color-white g-font-size-16 mb-2">Tina Krueger</span>
-                  <div class="d-inline-block g-width-40 g-height-40">
-                    <img class="img-fluid g-brd-around g-brd-2 g-brd-primary-opacity-0_1 rounded-circle" src="assets/img-temp/100x100/img5.jpg" alt="Image Description">
-                  </div>
-                </div>
-                <a class="u-link-v2" href="page-blog-single-item-1.html"></a>
-              </article>
-            </div>
-            <!-- End News -->
-
-            <!-- News -->
-            <div class="js-slide g-flex-centered u-shadow-v38 rounded g-mx-15 g-my-30">
-              <article class="g-pa-40">
-                <blockquote class="g-brd-left-none g-color-main-dark-v3 g-font-size-18 g-pl-0 mb-5">" Augustana Long Range Development Plan Open House - Sept. 28. The University of Unify will be holding a public open house that will provide an update on the amendment of land use plans for the Augustana Campus. "</blockquote>
-                <div class="text-center mb-3">
-                  <span class="d-block g-color-text-light-v1 g-font-size-16 mb-2">Neyton Burchie</span>
-                  <div class="d-inline-block g-width-40 g-height-40">
-                    <img class="img-fluid g-brd-around g-brd-2 g-brd-primary-opacity-0_1 rounded-circle" src="assets/img-temp/100x100/img3.jpg" alt="Image Description">
-                  </div>
-                </div>
-                <a class="btn btn-block g-color-primary g-color-white--hover g-bg-primary-opacity-0_1 g-bg-primary--hover g-rounded-20 g-py-10" href="page-blog-single-item-1.html">Read more</a>
-              </article>
-            </div>
-            <!-- End News -->
-
-            <!-- News -->
-            <div class="js-slide u-shadow-v38 g-bg-size-cover g-bg-pos-center rounded g-mx-15 g-my-30" style="background-image: url(assets/img-temp/400x500/img2.jpg);">
-              <article class="align-self-end text-center g-pos-rel g-z-index-1 g-pa-40 mx-auto">
-                <h3 class="g-color-white">University of Unify joins new network to drive defence research</h3>
-                <div class="mt-4">
-                  <span class="d-block g-color-white g-font-size-16 mb-2">Liza Nelson</span>
-                  <div class="d-inline-block g-width-40 g-height-40">
-                    <img class="img-fluid g-brd-around g-brd-2 g-brd-primary-opacity-0_1 rounded-circle" src="assets/img-temp/100x100/img4.jpg" alt="Image Description">
-                  </div>
-                </div>
-                <a class="u-link-v2" href="page-blog-single-item-1.html"></a>
-              </article>
-            </div>
-            <!-- End News -->
-          </div>
-          <!-- End News Carousel -->
         </div>
-      </div>
-      <!-- End News -->
+        <!-- End Unify Competency Model -->
 
-      <!-- Call to Action -->
-      <div class="g-pos-rel">
-        <div class="container text-center g-pt-100 g-pb-50">
-          <!-- Heading -->
-          <div class="g-max-width-645 mx-auto g-mb-40">
-            <h2 class="h1 mb-3">Join Unify University</h2>
-            <p>Our strategy is simple: to create a place where the best researchers and most promising students can achieve their full potential.</p>
-          </div>
-          <!-- End Heading -->
 
-          <a class="btn u-shadow-v33 g-color-white g-bg-primary g-bg-main--hover g-rounded-30 g-px-35 g-py-13" href="page-apply-1.html">Apply Now</a>
-
-          <!-- SVG Shape -->
-          <svg class="d-inline-block g-width-35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-               viewBox="0 0 37 1" enable-background="new 0 0 37 1" xml:space="preserve">
-            <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="0" y1="0.5" x2="37" y2="0.5">
-              <stop  offset="0" style="stop-color:#f5f6fa"/>
-              <stop  offset="1" style="stop-color:#b5b8cb"/>
-            </linearGradient>
-            <line fill="none" stroke="url(#SVGID_5_)" stroke-miterlimit="10" x1="37" y1="0.5" x2="0" y2="0.5"/>
-          </svg>
-          <!-- End SVG Shape -->
-
-          <span class="align-middle g-color-primary mx-1">or</span>
-
-          <!-- SVG Shape -->
-          <svg class="d-inline-block g-width-35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-               viewBox="0 0 37 1" enable-background="new 0 0 37 1" xml:space="preserve">
-            <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-10" y1="-1.5" x2="27" y2="-1.5" gradientTransform="matrix(-1 0 0 -1 27 -1)">
-              <stop  offset="0" style="stop-color:#f5f6fa"/>
-              <stop  offset="1" style="stop-color:#b5b8cb"/>
-            </linearGradient>
-            <line fill="none" stroke="url(#SVGID_6_)" stroke-miterlimit="10" x1="0" y1="0.5" x2="37" y2="0.5"/>
-          </svg>
-          <!-- End SVG Shape -->
-
-          <a class="btn u-shadow-v32 g-color-primary g-color-white--hover g-bg-white g-bg-main--hover g-rounded-30 g-px-35 g-py-13" href="page-contacts-1.html">Contact Us</a>
-        </div>
-
-        <!-- SVG Background Shape -->
-        <svg class="g-pos-abs g-bottom-0 g-left-0 g-z-index-minus-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-             viewBox="0 0 1920 323" enable-background="new 0 0 1920 323" xml:space="preserve">
-          <polygon fill="#f0f2f8" points="0,323 1920,323 1920,0 "/>
-          <polygon fill="#f5f6fa" points="-0.5,322.5 -0.5,131.5 658.3,212.3 "/>
-        </svg>
-        <!-- End SVG Background Shape -->
-      </div>
-      <!-- End Call to Action -->
+    <?php include './partials/cta.php' ?>
 
 <?php include './partials/footer.php' ?>

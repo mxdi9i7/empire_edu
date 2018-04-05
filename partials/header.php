@@ -71,32 +71,32 @@
                 <ul class="navbar-nav align-items-lg-center g-py-30 g-py-0--lg ml-auto">
 
                   <li class="nav-item">
-                    <a class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="page-programs-1.html">
+                    <a id="index" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/index.php">
                       首页
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="page-future-students-1.html">
+                    <a id="advantage" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/index.php#advantages">
                       项目优势
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="page-current-students-1.html">
+                    <a id="team" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/team.php">
                       专家团队
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="page-faculty-and-staff-1.html">
+                    <a id="success" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/success.php">
                       成功案例
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="page-events-1.html">
+                    <a id="about" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/about.php">
                       关于我们
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-pl-15--lg g-pr-0--lg g-py-10 g-py-30--lg" href="page-alumni-1.html">
+                    <a id="contact" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-pl-15--lg g-pr-0--lg g-py-10 g-py-30--lg" href="/contact.php">
                       联系我们
                     </a>
                   </li>

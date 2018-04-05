@@ -125,5 +125,6 @@
         $.HSCore.components.HSGoTo.init('.js-go-to');
       });
     </script>
+    <script src="assets/js/index.js"></script>
   </body>
 </html>
