@@ -8,18 +8,39 @@
            data-speed="8000"
            data-pagi-classes="u-carousel-indicators-v34 g-absolute-centered--y g-left-auto g-right-30 g-right-100--md"
            data-calc-target="#js-header">
+        <!-- Carousel Slides -->
+        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-pos-top-center g-bg-cover g-bg-black-opacity-0_3--after" style="background-image: url(assets/img/bg/bg3.jpg);">
+          <div class="container">
+            <div class="g-max-width-600 g-pos-rel g-z-index-1">
+              <a class="d-block g-text-underline--none--hover" href="#">
+                <span class="d-block g-color-white g-font-size-20--md mb-2">
+                  客户满意程度 <span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2">100%</span>
+                </span>
+                <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
+                  哥伦比亚大学录取人数 No.1
+                </span>
+              </a>
+            </div>
 
+            <!-- Go to Button -->
+            <a class="js-go-to d-flex align-items-center g-color-white g-pos-abs g-bottom-0 g-z-index-1 g-text-underline--none--hover g-pb-60" href="#!" data-target="#content">
+              <span class="d-block u-go-to-v4 mr-3"></span>
+              <span class="g-brd-bottom--dashed g-brd-white-opacity-0_5 mr-1">scroll down</span> to find out more
+            </a>
+            <!-- End Go to Button -->
+          </div>
+        </div>
+        <!-- End Carousel Slides -->
         <!-- Carousel Slides -->
         <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_3--after" style="background-image: url(https://qz.com/wp-content/uploads/2017/05/ap_100270986276-e1494991419413.jpg?quality=80&strip=all);">
           <div class="container">
             <div class="g-max-width-600 g-pos-rel g-z-index-1">
               <a class="d-block g-text-underline--none--hover" href="#">
                 <span class="d-block g-color-white g-font-size-20--md mb-2">
-                  Top 100 名校保进计划<span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2"> 美研直通车</span>
+                 纽约大学实力申请<span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2"> 100% 录取</span>
                 </span>
-                <span class="d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
-                  你的 Offer， 我的使命。 <br>
-                  只要符合评估最低要求，100%被录取！
+                <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
+                  深耕教育行业二十年，<br> 极具北美本土优势 <br>
                 </span>
               </a>
             </div>
@@ -35,15 +56,15 @@
         <!-- End Carousel Slides -->
 
         <!-- Carousel Slides -->
-        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_2--after" style="background-image: url(assets/img-temp/1920x1080/img6.jpg);">
+        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_2--after" style="background-image: url(https://universalbackground.com/wordpress/wp-content/uploads/2016/06/grads.jpg);">
           <div class="container">
             <div class="g-max-width-600 g-pos-rel g-z-index-1">
               <a class="d-block g-text-underline--none--hover" href="#">
                 <span class="d-block g-color-white g-font-size-20--md mb-2">
-                  Discover Unify's Faculty of <span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2">Chemistry</span>
+                  研究生录取虚位以待 <span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2">TOP10</span>
                 </span>
-                <span class="d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
-                  Student work, Success stories, Faculty profiles, 360&#176; tours &amp; more
+                <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
+                  二十年, 为中国留学生服务
                 </span>
               </a>
             </div>
@@ -58,29 +79,7 @@
         </div>
         <!-- End Carousel Slides -->
 
-        <!-- Carousel Slides -->
-        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-pos-top-center g-bg-cover g-bg-black-opacity-0_3--after" style="background-image: url(assets/img-temp/1920x1080/img7.jpg);">
-          <div class="container">
-            <div class="g-max-width-600 g-pos-rel g-z-index-1">
-              <a class="d-block g-text-underline--none--hover" href="#">
-                <span class="d-block g-color-white g-font-size-20--md mb-2">
-                  Fall <span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2">Webinar Series</span>
-                </span>
-                <span class="d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
-                  See our full schedule and register now
-                </span>
-              </a>
-            </div>
-
-            <!-- Go to Button -->
-            <a class="js-go-to d-flex align-items-center g-color-white g-pos-abs g-bottom-0 g-z-index-1 g-text-underline--none--hover g-pb-60" href="#!" data-target="#content">
-              <span class="d-block u-go-to-v4 mr-3"></span>
-              <span class="g-brd-bottom--dashed g-brd-white-opacity-0_5 mr-1">scroll down</span> to find out more
-            </a>
-            <!-- End Go to Button -->
-          </div>
-        </div>
-        <!-- End Carousel Slides -->
+        
       </div>
       <!-- End Carousel Slider -->
 
@@ -90,7 +89,7 @@
         <!-- Heading -->
         <div class="g-max-width-645 text-center mx-auto">
           <h2 class="h1 mb-3">项目优势</h2>
-          <p>Our strategy is simple: to create a place where the best researchers and most promising students can achieve their full potential.</p>
+          <p>三大计划，开启学术殿堂大门</p>
         </div>
         <!-- End Heading -->
 
@@ -110,9 +109,9 @@
                   </div>
                   <div class="media-body">
                     <h3 class="h5 g-color-blue g-color-main--hover g-font-primary mb-1">美研名校直通车计划</h3>
-                    <p class="g-font-size-16 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nisi, soluta quas natu</p>
+                    <p class="g-font-size-16 mb-0">量身计划打造，直通美国研究生名校</p>
                   </div>
-                  <a class="u-link-v2" href="page-future-students-1.html"></a>
+                  <a class="u-link-v2" href="#"></a>
                 </div>
               </li>
               <!-- End Links -->
@@ -127,9 +126,9 @@
                   </div>
                   <div class="media-body">
                     <h3 class="h5 g-color-purple g-color-main--hover g-font-primary mb-1">名校保进计划</h3>
-                    <p class="g-font-size-16 mb-0">An Unify education fosters personal growth and a commitment to the world beyond oneself.</p>
+                    <p class="g-font-size-16 mb-0">名校保进计划将通过捐赠模式为中国学生打开迈入美国名校的大门。</p>
                   </div>
-                  <a class="u-link-v2" href="page-programs-1.html"></a>
+                  <a class="u-link-v2" href="#"></a>
                 </div>
               </li>
               <!-- End Links -->
@@ -144,9 +143,9 @@
                   </div>
                   <div class="media-body">
                     <h3 class="h5 g-color-teal g-color-main--hover g-font-primary mb-1">精英一百计划</h3>
-                    <p class="g-font-size-16 mb-0">There is no better way to understand Unify University than by spending time on campus.</p>
+                    <p class="g-font-size-16 mb-0">精英100 计划旨在培养政商教文等各领域顶尖人才，由三大部分组成，分别是：美国名校申请，顶级投行实习，移民安家。</p>
                   </div>
-                  <a class="u-link-v2" href="page-events-1.html"></a>
+                  <a class="u-link-v2" href="#"></a>
                 </div>
               </li>
               <!-- End Links -->
@@ -157,7 +156,12 @@
           <div class="col-lg-7 order-lg-1 g-pt-10 g-mb-60">
             <!-- Youtube Iframe -->
             <div class="embed-responsive embed-responsive-16by9 u-shadow-v36 g-brd-around g-brd-7 g-brd-white g-rounded-5 mb-4">
-              <iframe src="https://www.youtube.com/embed/FxiskmF16gU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+              <!-- <iframe src="https://www.youtube.com/embed/FxiskmF16gU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+                  <video width="400" controls>
+                    <source src="video.mp4" type="video/mp4">
+                    <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
+                    Your browser does not support HTML5 video.
+                  </video>
             </div>
             <!-- End Youtube Iframe -->
 
@@ -173,49 +177,84 @@
         <div class="container g-pos-rel g-z-index-1 g-pt-100 g-pb-120">
           <!-- Heading -->
           <div class="g-max-width-645 text-center mx-auto g-mb-60">
-            <h2 class="h1 text-center g-color-white">美研名校直通车计划</h2>
+            <h2 class="h1 text-center g-color-white">美研名校直通车计划 合作院校</h2>
           </div>
           <!-- End Heading -->
 
           <div class="row align-items-lg-center">
-            <div class="col-lg-7 order-lg-2 g-mb-50">
-              <div class="g-pos-rel g-pl-15--lg">
-                <img class="img-fluid w-100 u-shadow-v19 g-brd-around g-brd-7 g-brd-secondary rounded" src="assets/img-temp/600x400/img1.png" alt="Image Description">
-
-                <!-- Video Button -->
-                <div class="g-absolute-centered--y g-left-0 g-right-0 text-center mx-auto">
-                  <a class="js-fancybox d-inline-block u-block-hover g-bg-white g-rounded-50 g-text-underline--none--hover g-transition-0_3 g-px-20 g-py-10" href="javascript:;"
-                     data-src="//vimeo.com/167434033"
-                     data-speed="350">
-                    <span class="d-flex align-items-center">
-                      <span class="u-icon-v3 g-width-30 g-height-30 g-color-white g-bg-primary g-bg-main--hover rounded-circle mr-3">
-                        <i class="g-font-size-13 g-ml-2 hs-icon hs-icon-play"></i>
-                      </span>
-                      <span class="g-color-primary g-color-main--hover">Play video</span>
-                    </span>
-                  </a>
-                </div>
-                <!-- End Video Button -->
-              </div>
-            </div>
-
-            <div class="col-lg-5 order-lg-1 g-mb-50">
+            <div class="col-lg-12 order-lg-1 g-mb-50">
               <!-- Researches - Info -->
               <div class="mb-5">
-                <h2 class="h3 g-color-white mb-4">标题</h2>
-                <p class="g-color-white-opacity-0_7">Prime Minister Malcolm Turnbull and NHMRC CEO Professor Anne Kelso announced this week that Unify had received eight Career Development Fellowships, 14 Early Career Fellowships, five Practitioner Fellowships, seven Research Fellowships and three Centres of Research Excellence.</p>
+                <!-- <p class="g-color-white-opacity-0_7">Prime Minister Malcolm Turnbull and NHMRC CEO Professor Anne Kelso announced this week that Unify had received eight Career Development Fellowships, 14 Early Career Fellowships, five Practitioner Fellowships, seven Research Fellowships and three Centres of Research Excellence.</p> -->
+                <div class="card-group d-block d-md-flex g-mx-minus-4">
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+                <img class=" d-block g-mb-20" src="assets/img/logo/columbia.jpg" height="150" alt="">
+                <h3 class="h4">哥伦比亚大学</h3>
+                <p class="g-color-text-light-v1">Columbia University</p>
+                <a class="u-link-v5 g-color-main--hover g-font-size-default" href="http://sps.columbia.edu/alp/apply">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
               </div>
+              <!-- End Links -->
+            </div>
 
-              <div class="media g-max-width-300">
-                <div class="d-flex mr-3">
-                  <div class="g-width-40 g-height-40">
-                    <img class="img-fluid g-brd-around g-brd-2 g-brd-white rounded-circle" src="assets/img-temp/100x100/img1.jpg" alt="Image Description">
-                  </div>
-                </div>
-                <div class="media-body">
-                  <span class="d-block g-color-white  g-font-size-16 mb-2">" The University has an impressive track record in NHMRC funding "</span>
-                  <h5 class="h6 g-color-primary g-font-primary g-font-weight-700">- Professor Jonathan</h5>
-                </div>
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/upenn.jpg" height="150" alt="">
+                <h3 class="h4">宾夕法尼亚大学</h3>
+                <p class="g-color-text-light-v1">University of Pennsylvania</p>
+                <!-- <a class="u-link-v5 g-color-main--hover g-font-size-default" href="#">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a> -->
+              </div>
+              <!-- End Links -->
+            </div>
+
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/harvard.jpg" height="150" alt="">
+                <h3 class="h4">哈佛大学</h3>
+                <p class="g-color-text-light-v1">Harvard University</p>
+                <!-- <a class="u-link-v5 g-color-main--hover g-font-size-default" href="#">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a> -->
+              </div>
+              <!-- End Links -->
+            </div>
+          </div>
+
+          <div class="card-group d-block d-md-flex g-mx-minus-4">
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/jhu.jpg" height="150" alt="">
+                <h3 class="h4">约翰霍普金大学</h3>
+                <p class="g-color-text-light-v1">John Hopkins University</p>
+                <a class="u-link-v5 g-color-main--hover g-font-size-default" href="https://app.lc.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=jhu-aap&_ga=2.165514879.1544622722.1522466245-1626458384.1522466245">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
+              </div>
+              <!-- End Links -->
+            </div>
+
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/nyu.jpg" height="150" alt="">
+                <h3 class="h4">纽约大学</h3>
+                <p class="g-color-text-light-v1">New York University</p>
+                <a class="u-link-v5 g-color-main--hover g-font-size-default" href="http://www.scps.nyu.edu/admissions/graduate/apply.html">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
+              </div>
+              <!-- End Links -->
+            </div>
+
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/ub.jpg" height="150" alt="">
+                <h3 class="h4">波士顿大学</h3>
+                <p class="g-color-text-light-v1">Boston University</p>
+                <a class="u-link-v5 g-color-main--hover g-font-size-default" href="https://bu-met2018.liaisoncas.com/applicant-ux/#/login">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
+              </div>
+              <!-- End Links -->
+            </div>
+          </div>
               </div>
               <!-- End Researches - Info -->
             </div>
@@ -254,7 +293,7 @@
                 <!-- Research - Info -->
                 <div class="text-center g-absolute-centered--y g-left-0 g-right-0 g-px-35">
                   <h4 class="h2 g-font-primary">Top 25</h4>
-                  <span class="d-block">One of the world's top research universities</span>
+                  <span class="d-block">世界前25名校的特殊录取通道</span>
                 </div>
                 <!-- Research - Info -->
               </div>
@@ -279,7 +318,7 @@
                 <!-- Research - Info -->
                 <div class="text-center g-absolute-centered--y g-left-0 g-right-0 g-px-35">
                   <h4 class="h2 g-font-primary">100%</h4>
-                  <span class="d-block">of our research is ranked at world standard or above</span>
+                  <span class="d-block">公司推荐学生录取率</span>
                 </div>
                 <!-- Research - Info -->
               </div>
@@ -304,7 +343,7 @@
                 <!-- Research - Info -->
                 <div class="text-center g-absolute-centered--y g-left-0 g-right-0 g-px-35">
                   <h4 class="h2 g-font-primary">70+</h4>
-                  <span class="d-block">research centres</span>
+                  <span class="d-block">全球范围内的合作名校</span>
                 </div>
                 <!-- Research - Info -->
               </div>
@@ -328,8 +367,8 @@
 
                 <!-- Research - Info -->
                 <div class="text-center g-absolute-centered--y g-left-0 g-right-0 g-px-35">
-                  <h4 class="h2 g-font-primary">Tripling</h4>
-                  <span class="d-block">our investment in research</span>
+                  <h4 class="h2 g-font-primary">+300%</h4>
+                  <span class="d-block">2017年发展规模</span>
                 </div>
                 <!-- Research - Info -->
               </div>
@@ -392,7 +431,7 @@
         <!-- End SVG Shape (Small Devices) -->
 
         <div class="g-max-width-300 text-center mx-auto">
-          <p class="g-color-secondary-light-v1 mb-0">Our award winning and the world changing hall of facts and figures.</p>
+          <p class="g-color-secondary-light-v1 mb-0">选择帝国教育，选择您的未来。</p>
         </div>
       </div>
       <!-- End Research Statistics -->
@@ -401,15 +440,16 @@
         <div class="container g-py-100">
           <div class="row justify-content-lg-between align-items-center">
             <div class="col-md-6">
-              <img class="img-fluid" src="assets/img-temp/900x700/img1.jpg" alt="Image Description">
+              <img class="img-fluid" src="https://wallpapercave.com/wp/wp1915255.jpg" alt="Image Description">
             </div>
 
             <div class="col-md-5 g-mb-50 g-mb-0--md">
               <div class="mb-5">
                 <h2 class="mb-3">名校保进计划</h2>
-                <p>Nov. 16, 2017 — Members of the university community may be aware of a number of instances in which posters designed to offend, draw response and divide us have appeared sporadically across our campus in recent weeks. For context, see messages from the President, myself, and the university.</p>
+                <p>名校保进计划将通过捐赠模式为中国学生打开迈入美国名校的大门。</p>
+                <p>美国顶尖大学除了学费收入以外，大部分的资金来自于捐赠，其中一部分为校友捐赠，另一部分则来自于想要入学的学生捐赠。故而美国顶尖大学每年都会预留一定的名额给家境殷实，学生成绩略低于录取标准的学生。</p>
+                <p>帝国教育利用本土资源优势，同名校董事会直接合作，将美国最顶尖的教育体系及学院彻底向中国学⽣开放，帮助各类国际学校和机构直接建⽴绿⾊的名校升学通道。且持有合法营业执照，分别在中国与美国主要城市设有办事处，随时与客户沟通。通过校方资源和人脉获取最新招生政策和偏好。</p>
               </div>
-              <a class="btn u-shadow-v39 g-brd-main g-brd-primary--hover g-color-main g-color-white--hover g-bg-primary--hover g-font-size-default g-rounded-30 g-px-35 g-py-11" href="#">Learn More</a>
             </div>
           </div>
         </div>
@@ -419,15 +459,15 @@
         <div class="container g-pb-100">
           <div class="row justify-content-lg-between align-items-center">
             <div class="col-md-6 order-md-2">
-              <img class="img-fluid" src="assets/img-temp/900x700/img3.jpg" alt="Image Description">
+              <img class="img-fluid" src="https://s-media-cache-ak0.pinimg.com/originals/cb/7e/83/cb7e83c79d2e73dbd5f5918ef3f1bb1a.jpg" alt="Image Description">
             </div>
 
             <div class="col-md-5 order-md-1 g-mb-50 g-mb-0--md">
               <div class="mb-5">
                 <h2 class="mb-3">精英一百计划</h2>
-                <p>Unify's revised competency model is now ready. Review the model and associated resources that help describe what it means for employees to contribute to Unify’s success.</p>
+                <p>精英100 计划旨在培养政商教文等各领域顶尖人才，由三大部分组成，分别是：美国名校申请，顶级投行实习，移民安家。帮助有殷实经济基础、有意出国或已经出国的学生及其家庭进入顶尖行业并完成移民美国梦想。</p>
+                <p>精英100计划总部位于纽约，在华尔街和长岛设有顶级会所,为客户提供包括生活、学习、职业规划在内的全方位专家级服务。</p>
               </div>
-              <a class="btn u-shadow-v39 g-brd-main g-brd-primary--hover g-color-main g-color-white--hover g-bg-primary--hover g-font-size-default g-rounded-30 g-px-35 g-py-11" href="#">Learn More</a>
             </div>
           </div>
         </div>

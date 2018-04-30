@@ -4,11 +4,11 @@
           <!-- Heading -->
           <div class="g-max-width-645 mx-auto g-mb-40">
             <h2 class="h1 mb-3">现在联系我们</h2>
-            <p>Our strategy is simple: to create a place where the best researchers and most promising students can achieve their full potential.</p>
+            <p>联系我们，踏上您的申请之路</p>
           </div>
           <!-- End Heading -->
 
-          <a class="btn u-shadow-v33 g-color-white g-bg-primary g-bg-main--hover g-rounded-30 g-px-35 g-py-13" href="page-apply-1.html">参观成功案例</a>
+          <a class="btn u-shadow-v33 g-color-white g-bg-primary g-bg-main--hover g-rounded-30 g-px-35 g-py-13" href="success.php">参观成功案例</a>
 
           <!-- SVG Shape -->
           <svg class="d-inline-block g-width-35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -34,7 +34,7 @@
           </svg>
           <!-- End SVG Shape -->
 
-          <a class="btn u-shadow-v32 g-color-primary g-color-white--hover g-bg-white g-bg-main--hover g-rounded-30 g-px-35 g-py-13" href="page-contacts-1.html">来电咨询</a>
+          <a class="btn u-shadow-v32 g-color-primary g-color-white--hover g-bg-white g-bg-main--hover g-rounded-30 g-px-35 g-py-13" href="contact.php">来电咨询</a>
         </div>
 
         <!-- SVG Background Shape -->

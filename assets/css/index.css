@@ -10,3 +10,9 @@
     border-bottom: 3px solid #a61d37;
     transition: .4s;
 }
+.js-slide a span.tagline {
+    font-weight: 600;
+}
+.heavy-heading {
+    font-weight: 800;
+}
