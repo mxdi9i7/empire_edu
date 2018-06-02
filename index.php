@@ -19,6 +19,9 @@
                 <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
                   哥伦比亚大学录取人数 No.1
                 </span>
+                <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-25--md g-line-height-1_4">
+                  2019年春季硕士录取虚位以待TOP10
+                </span>
               </a>
             </div>
 
@@ -34,13 +37,16 @@
         <!-- Carousel Slides -->
         <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_3--after" style="background-image: url(https://qz.com/wp-content/uploads/2017/05/ap_100270986276-e1494991419413.jpg?quality=80&strip=all);">
           <div class="container">
-            <div class="g-max-width-600 g-pos-rel g-z-index-1">
+            <div class="g-max-width-800 g-pos-rel g-z-index-1">
               <a class="d-block g-text-underline--none--hover" href="#">
-                <span class="d-block g-color-white g-font-size-20--md mb-2">
-                 纽约大学实力申请<span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2"> 100% 录取</span>
+                <span class="d-block g-color-white g-font-size-20--md">
+                  深耕教育行业二十年
                 </span>
                 <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
-                  深耕教育行业二十年，<br> 极具北美本土优势 <br>
+                  极具北美本土优势 <br> 我们最懂在美留学生
+                </span>
+                <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-25--md g-line-height-1_4">
+                  开除紧急应对、快速本科、名校保送、留学生绿卡直通车。
                 </span>
               </a>
             </div>
@@ -61,10 +67,13 @@
             <div class="g-max-width-600 g-pos-rel g-z-index-1">
               <a class="d-block g-text-underline--none--hover" href="#">
                 <span class="d-block g-color-white g-font-size-20--md mb-2">
-                  研究生录取虚位以待 <span class="g-brd-bottom--dashed g-brd-2 g-brd-primary g-color-primary g-font-weight-700 g-pb-2">TOP10</span>
+                   纽约大学硕士实力申请   <span class="g-brd-bottom--dashed g-brd-2 g-brd-secondary g-color-secondary g-font-weight-700 g-pb-2">100%录取</span>
                 </span>
                 <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-45--md g-line-height-1_4">
-                  二十年, 为中国留学生服务
+                  教育部留学信息服务网 海外人才库唯一指定合作机构
+                </span>
+                <span class="tagline d-block g-color-white  g-font-size-25 g-font-size-25--md g-line-height-1_4">
+                   录取 、就业、学历认证三重保证。 
                 </span>
               </a>
             </div>
@@ -251,6 +260,40 @@
                 <h3 class="h4">波士顿大学</h3>
                 <p class="g-color-text-light-v1">Boston University</p>
                 <a class="u-link-v5 g-color-main--hover g-font-size-default" href="https://bu-met2018.liaisoncas.com/applicant-ux/#/login">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
+              </div>
+              <!-- End Links -->
+            </div>
+          </div>
+          <div class="card-group d-block d-md-flex g-mx-minus-4">
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/usc.png" height="150" alt="">
+                <h3 class="h4">南加州大学</h3>
+                <p class="g-color-text-light-v1">University of South California</p>
+                <a class="u-link-v5 g-color-main--hover g-font-size-default" href="http://www.sc.edu/">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
+              </div>
+              <!-- End Links -->
+            </div>
+
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/stanford.png" height="150" alt="">
+                <h3 class="h4">斯坦福大学</h3>
+                <p class="g-color-text-light-v1">Stanford University</p>
+                <a class="u-link-v5 g-color-main--hover g-font-size-default" href="https://www.stanford.edu/">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
+              </div>
+              <!-- End Links -->
+            </div>
+
+            <div class="card g-brd-none g-mx-4 g-mb-8">
+              <!-- Links -->
+              <div class="card-body u-shadow-v38 g-bg-white rounded g-pa-40">
+              <img class=" d-block g-mb-20" src="assets/img/logo/ucla.png" height="150" alt="">
+                <h3 class="h4">加州大学洛杉矶分校</h3>
+                <p class="g-color-text-light-v1">University of California at Los Angeles</p>
+                <a class="u-link-v5 g-color-main--hover g-font-size-default" href="http://www.ucla.edu/">了解更多<i class="g-font-size-13 ml-2 material-icons">arrow_forward</i></a>
               </div>
               <!-- End Links -->
             </div>

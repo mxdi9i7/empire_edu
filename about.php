@@ -59,27 +59,26 @@
                  data-infinite="true"
                  data-autoplay="true"
                  data-speed="10000"
-                 data-nav-for="#carouselCus4"
                  data-in-effect="slideInRight"
                  data-out-effect="slideInRight">
-              <div class="js-slide g-pl-50--lg">
-                <!-- Testimonials - Content -->
-                <div class="media mb-3">
-                  <div class="d-flex mr-3">
-                    <span class="g-font-secondary g-font-size-40 g-opacity-0_3 g-pos-rel g-top-minus-10">&#8220;</span>
+                <div class="js-slide g-pl-50--lg">
+                  <!-- Testimonials - Content -->
+                  <div class="media mb-3">
+                    <div class="d-flex mr-3">
+                      <span class="g-font-secondary g-font-size-40 g-opacity-0_3 g-pos-rel g-top-minus-10">&#8220;</span>
+                    </div>
+                    <div class="media-body">
+                      <blockquote class="g-brd-left-none g-font-style-italic g-font-size-20 g-pl-0">帝国教育立足纽约，是北美知名度极高、口碑最佳、录取率最高的高端留学申请机构。公司以“名校前招生官把关”和 “纽约名校申请”服务为核心，通过校方资源和人脉获取最新招生政策和偏好，调整申请方案，纽约名校录取率始终保持95%以上；公司立志成为全球性最大最佳的教育发展平台，致力于在留学生社交生活、教育选择、职业发展的全方位大数据信息化人才孵化中，打造真正符合社会需要的人才。
+                        <span class="align-self-end g-font-secondary g-font-size-40 g-opacity-0_3 g-line-height-0 align-bottom g-pos-rel g-top-minus-10">&#8221;</span>
+                      </blockquote>
+                    </div>
                   </div>
-                  <div class="media-body">
-                    <blockquote class="g-brd-left-none g-font-style-italic g-font-size-20 g-pl-0">全美华裔青年和留学生创业圈中最具影响力的年度华裔“30位30岁以下优秀创业者”
-                      <span class="align-self-end g-font-secondary g-font-size-40 g-opacity-0_3 g-line-height-0 align-bottom g-pos-rel g-top-minus-10">&#8221;</span>
-                    </blockquote>
-                  </div>
-                </div>
 
-                <div class="g-pl-30">
-                  <h3 class="h4 mb-0">全美中华青年联合会</h3>
-                  <span class="d-block g-font-size-18 g-pl-20">&#8212;2018年03月21日</span>
-                </div>
-                <!-- End Testimonials - Content -->
+                  <div class="g-pl-30">
+                    <h3 class="h4 mb-0">全美中华青年联合会 </h3>
+                    <span class="d-block g-font-size-18 g-pl-20">&#8212;2018年05月21日</span>
+                  </div>
+                  <!-- End Testimonials - Content -->
               </div>
 
               <div class="js-slide g-pl-50--lg">

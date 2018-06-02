@@ -7,7 +7,7 @@
           <!-- Heading -->
           <div class="g-max-width-645 text-center mx-auto g-mb-40">
             <h1 class="g-font-size-40--md mb-4 heavy-heading">联系我们</h1>
-            <p>如果您有什么疑问，可以通过以下方式联系我们。</p>
+            <p>如果您有什么疑问，可以通过以下方式联系我们。由于本公司服务客户数量有限，且不做任何市场推广，仅通过口口相传，联系前请告知/推荐人/老客户姓名，谢绝陌生客户。</p>
           </div>
           <!-- End Heading -->
 
@@ -21,7 +21,7 @@
                     <label class="g-font-weight-500 g-font-size-16">姓名</label>
                   </div>
                   <div class="col-lg-8">
-                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="text" placeholder="John Doe">
+                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="text" placeholder="希望我们怎么称呼您">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -32,7 +32,18 @@
                     <label class="g-font-weight-500 g-font-size-16">邮箱</label>
                   </div>
                   <div class="col-lg-8">
-                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="john@gmail.com">
+                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="输入您的联系邮箱，如：john@gmail.com">
+                  </div>
+                </div>
+                <!-- End Name Input -->
+
+                <!-- Name Input -->
+                <div class="row align-items-center mb-4">
+                  <div class="col-lg-4">
+                    <label class="g-font-weight-500 g-font-size-16">微信号码</label>
+                  </div>
+                  <div class="col-lg-8">
+                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="如果可以，请提供其他联系方式">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -40,7 +51,7 @@
                 <!-- Name Input -->
                 <div class="row mb-4">
                   <div class="col-lg-4">
-                    <label class="g-font-weight-500 g-font-size-16">问题</label>
+                    <label class="g-font-weight-500 g-font-size-16">咨询问题</label>
                   </div>
                   <div class="col-lg-8">
                     <textarea class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" rows="5" placeholder="Hi there, I would like to ..."></textarea>
@@ -67,7 +78,7 @@
                     </span>
                   </div>
                   <div class="media-body">
-                    <span>31 W 34TH ST NEW YORK FL8 NY 10001 </span>
+                    <span>350 5th Ave, New York, N.Y. 10118 </span>
                   </div>
                 </div>
                 <!-- End Contact Info -->
@@ -93,7 +104,9 @@
                     </span>
                   </div>
                   <div class="media-body">
-                    <span>646-818-0189</span>
+                    <span>美国：+1 646-818-0189</span>
+                    <br>
+                    <span>中国：+86 15317816003</span>
                   </div>
                 </div>
                 <!-- End Contact Info -->
@@ -115,6 +128,35 @@
               </div>
             </div>
           </div>
+          <!-- Similar Courses -->
+          <div id="similarCourses" class="row g-py-80">
+              <div class="col-lg-12">
+                <div class="g-pl-15--lg">
+                  <div class="mb-4">
+                    <h3>遍布全球</h3>
+                    <p>帝国教育全球合作招生部门</p>
+                  </div>
+
+                  <div class="card-group d-block d-md-flex g-mx-minus-15">
+                    <div class="card g-brd-none g-mx-15 g-mb-30">
+                      <a class="card-body d-block u-link-v5 u-shadow-v32 g-color-main g-color-primary--hover g-bg-white g-pa-30" href=""><b>郑州合作招生部</b><br>郑州市金水区南阳路101号盛地大厦 450003 </a>
+                    </div>
+
+                    <div class="card g-brd-none g-mx-15 g-mb-30">
+                      <a class="card-body d-block u-link-v5 u-shadow-v32 g-color-main g-color-primary--hover g-bg-white g-pa-30" href=""><b>加州合作招生部</b><br>3415 S Figueroa St, Los Angeles, C.A. 90007</a>
+                    </div>
+
+                    <div class="card g-brd-none g-mx-15 g-mb-30">
+                      <a class="card-body d-block u-link-v5 u-shadow-v32 g-color-main g-color-primary--hover g-bg-white g-pa-30" href=""><b>上海合作招生部</b><br>上海市杨浦区财富国际广场 银座 200433</a>
+                    </div>
+                    <div class="card g-brd-none g-mx-15 g-mb-30">
+                      <a class="card-body d-block u-link-v5 u-shadow-v32 g-color-main g-color-primary--hover g-bg-white g-pa-30" href=""><b>成都合作招生部</b><br>成都市金牛区蜀西路46号盛大国际大厦 610000</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- End Similar Courses -->
         </div>
       </div>
       <!-- End Contacts -->
