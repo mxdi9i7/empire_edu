@@ -43,7 +43,7 @@
                     <label class="g-font-weight-500 g-font-size-16">微信号码</label>
                   </div>
                   <div class="col-lg-8">
-                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="如果可以，请提供其他联系方式">
+                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -55,6 +55,17 @@
                   </div>
                   <div class="col-lg-8">
                     <textarea class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" rows="5" placeholder="Hi there, I would like to ..."></textarea>
+                  </div>
+                </div>
+                <!-- End Name Input -->
+
+                 <!-- Name Input -->
+                 <div class="row mb-4">
+                  <div class="col-lg-4">
+                    <label class="g-font-weight-500 g-font-size-16">推荐人姓名</label>
+                  </div>
+                  <div class="col-lg-8">
+                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -104,7 +115,7 @@
                     </span>
                   </div>
                   <div class="media-body">
-                    <span>美国：+1 646-818-0189</span>
+                    <span>美国：+1 646-757-4813</span>
                     <br>
                     <span>中国：+86 15317816003</span>
                   </div>
