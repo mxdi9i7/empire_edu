@@ -14,14 +14,14 @@
           <div class="row justify-content-lg-center align-items-center">
             <div class="col-md-8 col-lg-7 g-mb-50">
               <!-- Contact Form -->
-              <form class="u-shadow-v35 g-bg-white rounded g-px-40 g-py-50">
+              <form class="u-shadow-v35 g-bg-white rounded g-px-40 g-py-50" action="email.php" method="post">
                 <!-- Name Input -->
                 <div class="row align-items-center mb-4">
                   <div class="col-lg-4">
                     <label class="g-font-weight-500 g-font-size-16">姓名</label>
                   </div>
                   <div class="col-lg-8">
-                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="text" placeholder="希望我们怎么称呼您">
+                    <input name="name" class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="text" placeholder="希望我们怎么称呼您">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -32,7 +32,7 @@
                     <label class="g-font-weight-500 g-font-size-16">邮箱</label>
                   </div>
                   <div class="col-lg-8">
-                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="输入您的联系邮箱，如：john@gmail.com">
+                    <input name="email" class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="输入您的联系邮箱，如：john@gmail.com">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -43,7 +43,7 @@
                     <label class="g-font-weight-500 g-font-size-16">微信号码</label>
                   </div>
                   <div class="col-lg-8">
-                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="">
+                    <input name="wechat" class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="text" placeholder="">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -54,7 +54,7 @@
                     <label class="g-font-weight-500 g-font-size-16">咨询问题</label>
                   </div>
                   <div class="col-lg-8">
-                    <textarea class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" rows="5" placeholder="Hi there, I would like to ..."></textarea>
+                    <textarea name="content" class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" rows="5" placeholder="Hi there, I would like to ..."></textarea>
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -65,7 +65,7 @@
                     <label class="g-font-weight-500 g-font-size-16">推荐人姓名</label>
                   </div>
                   <div class="col-lg-8">
-                    <input class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="email" placeholder="">
+                    <input name="referral" class="form-control g-brd-none g-bg-secondary g-bg-secondary-dark-v1--focus rounded g-px-20 g-py-12" type="text" placeholder="">
                   </div>
                 </div>
                 <!-- End Name Input -->
@@ -76,6 +76,7 @@
               </form>
               <!-- End Contact Form -->
             </div>
+            
 
             <div class="col-md-4 col-lg-3 g-mb-50">
               <div class="g-pl-15--lg">
