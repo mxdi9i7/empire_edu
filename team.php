@@ -60,7 +60,7 @@
               <img class="img-fluid w-100 u-block-hover__main--zoom-v1 g-transition-0_5" src="assets/img/team/smith.jpg" alt="Image Description">
             </div>
             <div class="u-shadow-v32 g-bg-white g-pa-30">
-              <h3 class="h3 g-font-weight-500 mb-1">Smith Steven</h3>
+              <h3 class="h3 g-font-weight-500 mb-1">Jeff Smith</h3>
               <span class="d-block g-color-text-light-v1 g-font-size-16">美国大学招生委员前主席，联合国安蒙生基金执行主任，联合并组织美国名校招生官前往中国大陆进行招生教育的开创者，国家留学基金委特聘专家。</span>
             </div>
             <a class="u-link-v2" href="#"></a>
@@ -73,7 +73,7 @@
               <img class="img-fluid w-100 u-block-hover__main--zoom-v1 g-transition-0_5" src="assets/img/team/jeff.jpg" alt="Image Description">
             </div>
             <div class="u-shadow-v32 g-bg-white g-pa-30">
-              <h3 class="h3 g-font-weight-500 mb-1">John Jeff</h3>
+              <h3 class="h3 g-font-weight-500 mb-1">John Steven</h3>
               <span class="d-block g-color-text-light-v1 g-font-size-16">纽约市大学校董，同纽约大学董事会合作建立纽约大学上海分校，多家企业董事长，房地产开发和投资四十余年经验，被誉为 “纽约地产巨子，商业奇才”</span>
             </div>
             <a class="u-link-v2" href="#"></a>
@@ -115,6 +115,45 @@
             <div class="u-shadow-v32 g-bg-white g-pa-30">
               <h3 class="h3 g-font-weight-500 mb-1">Alex Sun</h3>
               <span class="d-block g-color-text-light-v1 g-font-size-16">前约翰霍普金斯大学文理学院招生官助理，约翰霍普金斯大学金融硕士，西安交通大学建筑学学士。</span>
+            </div>
+            <a class="u-link-v2" href="#"></a>
+          </div>
+          <!-- End Faculty Professors -->
+        </div>
+      </div>
+      <!-- End Faculty Professors -->
+
+      <!-- Faculty Professors -->
+      <div class="js-slide u-block-hover g-pb-10 g-mx-15">
+            <div class="g-overflow-hidden">
+              <img class="img-fluid w-100 u-block-hover__main--zoom-v1 g-transition-0_5" src="assets/img/team/zuyu.png" alt="Image Description">
+            </div>
+            <div class="u-shadow-v32 g-bg-white g-pa-30">
+              <h3 class="h3 g-font-weight-500 mb-1">Zeyu Zheng</h3>
+              <span class="d-block g-color-text-light-v1 g-font-size-16">帝国教育人力资源总监，泽宇教育创始人，波士顿大学市场营销和组织行为学学士。帮助
+全球10000+名学员打造个人核心竞争力，现为千聊直播的认证主讲师，为美国联邦储蓄银
+行员工做过职场培训，由两届波士顿市长亲自颁奖，大使馆认证北美华裔30岁以下30位优
+秀创业者。</span>
+            </div>
+            <a class="u-link-v2" href="#"></a>
+          </div>
+          <!-- End Faculty Professors -->
+        </div>
+      </div>
+      <!-- End Faculty Professors -->
+
+      <!-- Faculty Professors -->
+      <div class="js-slide u-block-hover g-pb-10 g-mx-15">
+            <div class="g-overflow-hidden">
+              <img class="img-fluid w-100 u-block-hover__main--zoom-v1 g-transition-0_5" src="assets/img/team/richard.png" alt="Image Description">
+            </div>
+            <div class="u-shadow-v32 g-bg-white g-pa-30">
+              <h3 class="h3 g-font-weight-500 mb-1">Richard Wu</h3>
+              <span class="d-block g-color-text-light-v1 g-font-size-16">毕业于康奈尔本科酒店管理学院主攻酒店地产投资，研究生主修运用经济和行为金融，辅
+修房地产。十年北美留学经验，在自进入康奈尔大学后有将近5年时间帮助数名学生过渡走
+向美国精英社会帮助学生保留中华精神并汲取欧美上流文化教育，特别对于精英私立高中
+和北美Top高校申请有着着实充分的了解。还参任康奈尔酒店管理学院的校友面试官和担
+任美国私立高中指定面试辅导。</span>
             </div>
             <a class="u-link-v2" href="#"></a>
           </div>
