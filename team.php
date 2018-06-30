@@ -108,7 +108,7 @@
           <!-- End Faculty Professors -->
           <div class="js-slide u-block-hover g-pb-10 g-mx-15">
             <div class="g-overflow-hidden">
-              <img class="img-fluid w-100 u-block-hover__main--zoom-v1 g-transition-0_5" src="assets/img/team/zuyu.png" alt="Image Description">
+              <img class="img-fluid w-100 u-block-hover__main--zoom-v1 g-transition-0_5" src="assets/img/team/zeyu.png" alt="Image Description">
             </div>
             <div class="u-shadow-v32 g-bg-white g-pa-30">
               <h3 class="h3 g-font-weight-500 mb-1">Zeyu Zheng</h3>
