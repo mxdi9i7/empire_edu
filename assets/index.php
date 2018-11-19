@@ -1,10 +1,8 @@
 
 <?php include './partials/header.php' ?>
 <input id="active" value="index" hidden>
-<div id="loader" class="lds-ring"><div></div><div></div><div></div><div></div></div>
-
       <!-- Carousel Slider -->
-      <div id="carousel" class="js-carousel u-carousel-v5"
+      <div class="js-carousel u-carousel-v5"
            data-infinite="true"
            data-autoplay="true"
            data-speed="8000"
@@ -37,7 +35,7 @@
         </div>
         <!-- End Carousel Slides -->
         <!-- Carousel Slides -->
-        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_3--after" style="background-image: url(assets/img/bg2.jpg);">
+        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_3--after" style="background-image: url(https://qz.com/wp-content/uploads/2017/05/ap_100270986276-e1494991419413.jpg?quality=80&strip=all);">
           <div class="container">
             <div class="g-max-width-800 g-pos-rel g-z-index-1">
               <a class="d-block g-text-underline--none--hover" href="#">
@@ -64,7 +62,7 @@
         <!-- End Carousel Slides -->
 
         <!-- Carousel Slides -->
-        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_2--after" style="background-image: url(assets/img/bg1.jpg);">
+        <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-cover g-bg-black-opacity-0_2--after" style="background-image: url(https://universalbackground.com/wordpress/wp-content/uploads/2016/06/grads.jpg);">
           <div class="container">
             <div class="g-max-width-600 g-pos-rel g-z-index-1">
               <a class="d-block g-text-underline--none--hover" href="#">
@@ -94,12 +92,6 @@
       </div>
       <!-- End Carousel Slider -->
 
-<script>
-  setTimeout(() => {
-    document.getElementById('carousel').style.opacity = 1
-    document.getElementById('loader').style.display = 'none'
-  }, 3000);
-</script>
 
       <!-- Learn First Steps -->
       <div class="container g-pt-100 g-pb-50" id="advantages">
