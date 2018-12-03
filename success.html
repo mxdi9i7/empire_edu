@@ -302,7 +302,7 @@
       <!-- JS Implementing Plugins -->
       <script src="../../assets/vendor/fancybox/jquery.fancybox.min.js"></script> <!-- JS Unify -->
       <script src="../../assets/js/components/hs.popup.js"></script> <!-- JS Plugins Init. -->
-      <script> $(document).on('ready', function () { initialization of popups $.HSCore.components.HSPopup.init('.js-fancybox'); }); </script>
+      <script> $(document).on('ready', function () {  $.HSCore.components.HSPopup.init('.js-fancybox'); }); </script>
       <!-- End Hero Content -->
 
 
@@ -395,7 +395,7 @@
   <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/components/hs.go-to.js"></script>
   <!-- JS Customization -->
   <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/custom.js"></script> <!-- JS Plugins Init. -->
-  <script>       $(document).on('ready', function () {         // initialization of header         $.HSCore.components.HSHeader.init($('#js-header'));         $.HSCore.helpers.HSHamburgers.init('.hamburger');          // initialization of HSMegaMenu component         $('.js-mega-menu').HSMegaMenu({           event: 'hover',           pageContainer: $('.container'),           breakpoint: 991         });          // initialization of HSDropdown component         $.HSCore.components.HSDropdown.init($('[data-dropdown-target]'), {           afterOpen: function () {             $(this).find('input[type="search"]').focus();           }         });          // initialization of carousel         $.HSCore.components.HSCarousel.init('[class*="js-carousel"]');          // initialization of header's height equal offset         $.HSCore.helpers.HSHeightCalc.init();          // initialization of popups         $.HSCore.components.HSPopup.init('.js-fancybox');          // initialization of go to         $.HSCore.components.HSGoTo.init('.js-go-to');       });     </script>
+  <script>       $(document).on('ready', function () {                    $.HSCore.components.HSHeader.init($('#js-header'));         $.HSCore.helpers.HSHamburgers.init('.hamburger');                     $('.js-mega-menu').HSMegaMenu({           event: 'hover',           pageContainer: $('.container'),           breakpoint: 991         });                     $.HSCore.components.HSDropdown.init($('[data-dropdown-target]'), {           afterOpen: function () {             $(this).find('input[type="search"]').focus();           }         });                      $.HSCore.components.HSCarousel.init('[class*="js-carousel"]');                      $.HSCore.helpers.HSHeightCalc.init();                     $.HSCore.components.HSPopup.init('.js-fancybox');                      $.HSCore.components.HSGoTo.init('.js-go-to');       });     </script>
   <script src="assets/js/index.js"></script>
 </body>
 
