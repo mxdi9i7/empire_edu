@@ -20,5 +20,5 @@ HTML;
     // send the email
     mail($to, $subject, $body, $headers);
     // redirect afterwords, if needed
-    header('Location: contact.php');
+    header('Location: contact.html');
 ?>

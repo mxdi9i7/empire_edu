@@ -46,7 +46,7 @@
             <!-- Nav -->
             <nav class="js-mega-menu navbar navbar-expand-lg g-px-0 g-py-5 g-py-0--lg">
               <!-- Logo -->
-              <a class="navbar-brand g-max-width-170 g-max-width-200--lg" href="/">
+              <a class="navbar-brand g-max-width-170 g-max-width-200--lg" href="./">
                 <img class="img-fluid" src="assets/logo-hori.png" alt="Logo">
               </a>
               <!-- End Logo -->
@@ -71,32 +71,32 @@
                 <ul class="navbar-nav align-items-lg-center g-py-30 g-py-0--lg ml-auto">
 
                   <li class="nav-item">
-                    <a id="index" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/index.php">
+                    <a id="index" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="./index.html">
                       首页
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a id="advantage" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/index.php#advantages">
+                    <a id="advantage" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="./index.html#advantages">
                       项目优势
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a id="team" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/team.php">
+                    <a id="team" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="./team.html">
                       专家团队
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a id="success" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/success.php">
+                    <a id="success" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="./success.html">
                       成功案例
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a id="about" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="/about.php">
+                    <a id="about" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-px-15--lg g-py-10 g-py-30--lg" href="./about.html">
                       关于我们
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a id="contact" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-pl-15--lg g-pr-0--lg g-py-10 g-py-30--lg" href="/contact.php">
+                    <a id="contact" class="nav-link g-color-primary--hover g-font-size-15 g-font-size-17--xl g-pl-15--lg g-pr-0--lg g-py-10 g-py-30--lg" href="./contact.html">
                       联系我们
                     </a>
                   </li>
