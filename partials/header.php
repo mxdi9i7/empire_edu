@@ -16,24 +16,24 @@
     <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,400i,500,700%7CAlegreya:400" rel="stylesheet">
 
     <!-- CSS Global Compulsory -->
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap/bootstrap.min.css">
 
     <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/icon-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/icon-line-pro/style.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/icon-hs/style.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/icon-material/material-icons.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/animate.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/hs-megamenu/src/hs.megamenu.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/hamburgers/hamburgers.min.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/fancybox/jquery.fancybox.css">
+    <link rel="stylesheet" href="assets/vendor/icon-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/vendor/icon-line-pro/style.css">
+    <link rel="stylesheet" href="assets/vendor/icon-hs/style.css">
+    <link rel="stylesheet" href="assets/vendor/icon-material/material-icons.css">
+    <link rel="stylesheet" href="assets/vendor/animate.css">
+    <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
+    <link rel="stylesheet" href="assets/vendor/hamburgers/hamburgers.min.css">
+    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="assets/vendor/fancybox/jquery.fancybox.css">
 
     <!-- CSS Unify Theme -->
     <link rel="stylesheet" href="assets/css/styles.multipage-education.css">
     <link rel="stylesheet" href="assets/css/index.css">
     <!-- CSS Customization -->
-    <link rel="stylesheet" href="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/css/custom.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
   </head>
 
   <body id="body">

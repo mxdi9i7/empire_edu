@@ -68,28 +68,28 @@
     </main>
 
     <!-- JS Global Compulsory -->
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/jquery/jquery.min.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/jquery-migrate/jquery-migrate.min.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/popper.min.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/bootstrap/bootstrap.min.js"></script>
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+    <script src="assets/vendor/popper.min.js"></script>
+    <script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
 
     <!-- JS Implementing Plugins -->
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/hs-megamenu/src/hs.megamenu.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/slick-carousel/slick/slick.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/vendor/fancybox/jquery.fancybox.min.js"></script>
+    <script src="assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
+    <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
+    <script src="assets/vendor/fancybox/jquery.fancybox.min.js"></script>
 
     <!-- JS Unify -->
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/hs.core.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/components/hs.header.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/helpers/hs.hamburgers.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/components/hs.dropdown.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/helpers/hs.height-calc.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/components/hs.carousel.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/components/hs.popup.js"></script>
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/components/hs.go-to.js"></script>
+    <script src="assets/js/hs.core.js"></script>
+    <script src="assets/js/components/hs.header.js"></script>
+    <script src="assets/js/helpers/hs.hamburgers.js"></script>
+    <script src="assets/js/components/hs.dropdown.js"></script>
+    <script src="assets/js/helpers/hs.height-calc.js"></script>
+    <script src="assets/js/components/hs.carousel.js"></script>
+    <script src="assets/js/components/hs.popup.js"></script>
+    <script src="assets/js/components/hs.go-to.js"></script>
 
     <!-- JS Customization -->
-    <script src="https://bctc-cdn.nyc3.digitaloceanspaces.com/unify/js/custom.js"></script>
+    <script src="assets/js/custom.js"></script>
 
     <!-- JS Plugins Init. -->
     <script>
